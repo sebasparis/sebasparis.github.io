@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Sebastián Gallardo París
-description: physicist | IT freelancer
+description: Physicist | IT Freelancer
 
 baseurl: / #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
@@ -17,12 +17,8 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
-twitter: "#"
-linkedin: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
+linkedin: "https://www.linkedin.com/in/sebasti%C3%A1n-gallardo-par%C3%ADs-b7868a211/"
+github: "https://github.com/sebasparis"
 
 highlighter: rouge
 markdown: kramdown
