@@ -1,6 +1,6 @@
 ---
 layout: about
-permalink: /
+permalink: /publications
 profile:
   align: right
   image: profile.png
