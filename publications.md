@@ -7,6 +7,5 @@ profile:
 published: true
 ---
 
-Here is a list of some of my publications.
-Wait, there's only one.
-That's okay.
+
+Gallardo, Sebastián Luciano, Daniel Domínguez, and María José Sánchez. "Dissipative entanglement generation between two qubits parametrically driven and coupled to a resonator." Physical Review A 105.5 (2022): 052413. https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.052413
