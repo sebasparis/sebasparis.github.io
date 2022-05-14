@@ -14,16 +14,20 @@ published: true
 
 ## Instituto Balseiro
 • Licenciatura in Physics (GPA 8.9/10) | July 2018 --- December 2020
+
 • MSc in Condensed Matter Physics | December 2020 --- present
+
 Thesis topic: Entanglement control in circuit-QED superconducting qubit architectures (theoretical)
 
 # Work experience
 • **Private tutor** for physics calculus, geometry, and linear algebra (2016---present)
-• **Lead data scientist** for an electronic gambling machine data analysis company.
+
+• **Lead data scientist** for an electronic gambling machine data analysis company (September 2021---present)
 
 # Languages
 • Spanish (native)
-• English (proficient) — C1 level certified by Cambridge University’s FCE (2015).
+
+• English (proficient) --- C1 level certified by Cambridge University’s FCE (2015).
 
 # Techical skills 
 
@@ -31,8 +35,7 @@ Thesis topic: Entanglement control in circuit-QED superconducting qubit architec
 • **Software & Tools** | Mathematica, OriginLab, LaTeX, SQL, AWS, git, Unix shell.
 
 # Publications
-See (Publications)[publications].
+See [Publications](publications).
 
 # Projects
-See (Projects)[projects].
-
+See [Projects](projects).
