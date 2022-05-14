@@ -88,7 +88,7 @@ nx.draw(G,with_labels=True)
 
 
     
-![png](assets/images/output_7_0.png)
+![png](/assets/images/output_7_0.png)
     
 
 
@@ -99,7 +99,7 @@ Now that we have our graph $G$, we focus on implementing the algorithm. Beforeha
 p=2
 ```
 
-The algorithm will be performed on a quantum register of $n$ qubits, with $n$ classical bits for measurement. The initial state of the circuit can be set to $|s\rangle$ by initializing the circuit with all qubits in the state $|0\rangle$, and then applying a Hadamard gate in every qubit. Implementing this as a quantum circuit and naming it <i>init_circ</i>,
+The algorithm will be performed on a quantum register of $n$ qubits, with $n$ classical bits for measurement. The initial state of the circuit can be set to $\|s\rangle$ by initializing the circuit with all qubits in the state $\|0\rangle$, and then applying a Hadamard gate in every qubit. Implementing this as a quantum circuit and naming it <i>init_circ</i>,
 
 
 ```python
@@ -462,4 +462,4 @@ nx.draw(G, node_color=color_map, with_labels=True)
 
 
     
-![png](assets/images/output_38_0.png)
+![png](/assets/images/output_38_0.png)
