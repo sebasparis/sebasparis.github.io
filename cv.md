@@ -9,13 +9,13 @@ published: true
 
 # Education
 
-## Universidad Nacional de San Juan
+**Universidad Nacional de San Juan**
 • Licenciatura in Geophysics (first two and a half years) | February 2016 --- July 2018
 
-## Instituto Balseiro
+**Instituto Balseiro**
 • Licenciatura in Physics (GPA 8.9/10) | July 2018 --- December 2020
 
-• MSc in Condensed Matter Physics | December 2020 --- present
+• MSc in Condensed Matter Physics | December 2020 --- February 2022
 
 Thesis topic: Entanglement control in circuit-QED superconducting qubit architectures (theoretical)
 
@@ -32,6 +32,7 @@ Thesis topic: Entanglement control in circuit-QED superconducting qubit architec
 # Techical skills 
 
 • **Programming Languages** | C/C++, Python (+ pandas, numpy, scipy), Fortran.
+
 • **Software & Tools** | Mathematica, OriginLab, LaTeX, SQL, AWS, git, Unix shell.
 
 # Publications
