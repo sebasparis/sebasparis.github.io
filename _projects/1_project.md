@@ -88,7 +88,7 @@ nx.draw(G,with_labels=True)
 
 
     
-![png](output_7_0.png)
+![png](assets/images/output_7_0.png)
     
 
 
@@ -462,4 +462,4 @@ nx.draw(G, node_color=color_map, with_labels=True)
 
 
     
-![png](output_38_0.png)
+![png](assets/images/output_38_0.png)
